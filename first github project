@@ -19,6 +19,9 @@
 <label for="Username">
 <input type="username" placeholder="Enter your Username" required="true">
 </lable>
+<label for="sumbit">
+    <input type="submit">
+</label>
 </form>
 </body>
 </html>
